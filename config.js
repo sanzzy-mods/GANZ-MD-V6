@@ -33,36 +33,19 @@ let witah = moment.tz('Asia/Makassar').format('HH')
     
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/dvekgw'
-global.sgh = 'https://github.com/davekgw'
-global.sgc = 'https://chat.whatsapp.com/JmCcCjQ7x4H6Ly12uMzy4r'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-
-/*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '089631008798'
-global.povo = '089631008798'
-global.ppulsa = '089631008798'
-global.ppulsa2 = '089631008798'
-
-/*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285156973045'
-global.nomorown = '6289631008798' //Dave
-global.adminn = '6289631008798' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
-global.admin = '6287734910547' //Alvin /INI LAGI
-global.admin2 = '6288990007937' //Ahmad //INI JUGA
-global.namebot = 'Silence BOT'
-global.nameown = 'Dv~'
+global.global = {
+    sig: "https://instagram.com/dvekgw",
+    sgh: "https://github.com/davekgw",
+    sgc: "https://chat.whatsapp.com/JmCcCjQ7x4H6Ly12uMzy4r",
+    snh: "https://nhentai.net/g/365296/", //Make ini aja gausah di ganti.
+    nomorbot: "6285156973045",
+    nomorown: "6289631008798", //Dave
+    namebot: "Silence BOT",
+    nameown: "Dv~",
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
-global.owner = [
-  ['6289631008798'],
-  ['6287734910547'], //Alvin
-  ['6288990007937'], //Ahmad
-  ['6281949742417'], //GELAKTAWA
-  ['6289631008798', 'Dve', true]
-  // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+global.owner = ["6289631008798", "", ""] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 

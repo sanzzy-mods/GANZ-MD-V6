@@ -821,7 +821,7 @@ esteh: 0,
                 else
                     m.exp += xp
                 if (!isPrems && plugin.limit && global.db.data.users[m.sender].limit < plugin.limit * 1) {
-                    this.reply(m.chat, `*[ ! ] Limit anda sudah habis*\nKumpulkan *Money* dengan bermain di bagian RPG dan tukarkan uang menjadi limit.\n\n Money 30000 = 1 Limit\n\nUntuk menukarkan ketik *${usedPrefix}buylimit(angka limit)*\n• Contoh: *.buylimit20* `, m)
+                    this.reply(m.chat, `*[ ! ] Limit anda sudah habis*\nKumpulkan *Money* dan tukarkan uang menjadi limit.\n\n Money 30000 = 1 Limit\n\nUntuk menukarkan ketik *${usedPrefix}buylimit(angka limit)*\n• Contoh: *.buylimit20* `, m)
                     continue // Limit habis
                 }
                 if (plugin.level > _user.level) {
