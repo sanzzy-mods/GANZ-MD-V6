@@ -46,7 +46,10 @@ global.global = {
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
-global.owner = ["6289631008798","","628881663146"]// Put your number here
+global.owner = [
+    ['6289631008798'],
+    ['6289631008798', 'Dave', true]
+    ]// Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
