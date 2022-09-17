@@ -42,10 +42,14 @@ global.global = {
     nomorown: "6289631008798", //Dave
     namebot: "Silence BOT",
     nameown: "Dv~",
+    }
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
-global.owner = ["6289631008798", "", ""] // Put your number here
+global.owner: {
+    "6289631008798",
+    "628881663146",
+    }// Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
