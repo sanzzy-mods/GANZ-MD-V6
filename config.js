@@ -39,19 +39,19 @@ global.sgc = 'https://chat.whatsapp.com/JmCcCjQ7x4H6Ly12uMzy4r'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285156973045'
-global.nomorown = '6289631008798' //Dave
-global.adminn = '6289631008798' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
-global.admin = '6287734910547' //Alvin /INI LAGI
-global.admin2 = '6288990007937' //Ahmad //INI JUGA
-global.namebot = 'Silence BOT'
-global.nameown = 'Dv~'
+global.nomorbot = '6281255466600'
+global.nomorown = '6285172446692' //Dave
+global.adminn = '6285172446692' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
+global.admin = '6285172446692' //Alvin /INI LAGI
+global.admin2 = '6285172446692' //Ahmad //INI JUGA
+global.namebot = 'Ryuu-Botz'
+global.nameown = 'Ryuu-Kawai'
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6289631008798'],
-  ['6289631008798', 'Dve', true]
+  ['6285172446692'],
+  ['6285172446692', 'Ryuu-Kawai', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = 'SilenceBOT' //Main Watermark
-global.wm2 = 'Dve~'
-global.wm3 = '❁ Silence'
+global.wm = 'Ryuu-Botz' //Main Watermark
+global.wm2 = 'Created By Ryuu-Kawai'
+global.wm3 = '❁ Ryuu'
 global.botdate = `⫹⫺ Date : ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🌱 𝙍𝙋𝙂 | Whatsapp Bot'
-global.author = '©ADA-MD'
+global.author = '©RYUU-BOTZ'
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -143,8 +143,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '© By'
-global.stickauth = `Dve~`
+global.stickpack = '© By Ryuu-Kawai'
+global.stickauth = `Ryuu-Kawai`
 global.multiplier = 100 // The higher, The harder levelup
 
 /*⫘⫘⫘⫘ GLOBAL EMOJI ⫘⫘⫘⫘⫘*/
