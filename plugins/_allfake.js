@@ -23,8 +23,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'davekoagow4@gmail.com', true],
-         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'davekoagow4@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'leviadnansyahlevi@gmail.com', true],
+         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'с┤Ес┤Зс┤ас┤З╩Яс┤Пс┤йс┤З╩А ╩Щс┤Пс┤Ы', 'leviadnansyahlevi@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
