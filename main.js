@@ -146,7 +146,7 @@ const hehe = async (jid, options) => {
         }
       }
     }
-    const txt = `\n[ ! ] Berhasil terhubung ke SC Smiley.\n\nSaya berjanji tidak akan menjual belikan script ini.\nTerimakasih @${jid.split`@`[0]}, karena sudah memberikan script ini secara gratis.\n\n\nSumber Script ✓\nhttps://github.com/davekgw`
+    const txt = `\n[ ! ] Berhasil terhubung ke SC Ryuu-Kawai.\n\nSaya berjanji tidak akan menjual belikan script ini.\nTerimakasih @${jid.split`@`[0]}, karena sudah memberikan script ini secara gratis.\n\n\nSumber Script ✓\nhttps://github.com/davekgw`
     return await conn.sendMessage(jid, { text: txt, mentions: [jid], ...options }, { quoted: fkontak, ephemeralExpiration: 86400, ...options })
   }
 }
@@ -159,7 +159,7 @@ async function connectionUpdate(update) {
   if (code && code !== DisconnectReason.loggedOut && conn?.ws.readyState !== CONNECTING) {
     console.log(await global.reloadHandler(true).catch(console.error))
     global.timestamp.connect = new Date
-    return await hehe('6289631008798' + '@s.whatsapp.net').catch(err => { return !0 })
+    return await hehe('6285172446692' + '@s.whatsapp.net').catch(err => { return !0 })
   }
   if (global.db.data == null) loadDatabase()
 }
