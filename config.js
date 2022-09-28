@@ -33,9 +33,9 @@ let witah = moment.tz('Asia/Makassar').format('HH')
     
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/dvekgw'
+global.sig = 'https://instagram.com/imleviofc'
 global.sgh = 'https://github.com/davekgw'
-global.sgc = 'https://chat.whatsapp.com/JmCcCjQ7x4H6Ly12uMzy4r'
+global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
