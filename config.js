@@ -35,23 +35,23 @@ let witah = moment.tz('Asia/Makassar').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/imleviofc'
 global.sgh = 'https://github.com/davekgw'
-global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6'
+global.sgc = 'https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281255466600'
+global.nomorbot = '6285172446692'
 global.nomorown = '6285172446692' //Dave
 global.adminn = '6285172446692' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
 global.admin = '6285172446692' //Alvin /INI LAGI
 global.admin2 = '6285172446692' //Ahmad //INI JUGA
-global.namebot = 'Ryuu-Botz'
-global.nameown = 'Ryuu-Kawai'
+global.namebot = 'LEVI 来'
+global.nameown = 'LEVI 来'
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
   ['6285172446692'],
-  ['6285172446692', 'Ryuu-Kawai', true]
+  ['6285172446692', 'LEVI 来', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = 'Ryuu-Botz' //Main Watermark
-global.wm2 = 'Created By Ryuu-Kawai'
-global.wm3 = '❁ Ryuu'
+global.wm = 'LEVI 来' //Main Watermark
+global.wm2 = 'Created By LEVI 来'
+global.wm3 = '❁ LEVI 来'
 global.botdate = `⫹⫺ Date : ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🌱 𝙍𝙋𝙂 | Whatsapp Bot'
-global.author = '©RYUU-BOTZ'
+global.author = '©LEVI 来'
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -143,8 +143,8 @@ global.htjava = '𖥸'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = '© By Ryuu-Kawai'
-global.stickauth = `Ryuu-Kawai`
+global.stickpack = '© By LEVI 来'
+global.stickauth = `LEVI 来`
 global.multiplier = 100 // The higher, The harder levelup
 
 /*⫘⫘⫘⫘ GLOBAL EMOJI ⫘⫘⫘⫘⫘*/
